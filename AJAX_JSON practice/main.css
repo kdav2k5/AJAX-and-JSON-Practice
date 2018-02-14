@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(48, 42, 48);
+}
+.container, header, h1{
+    color: white;
+    text-align: left;
+    padding-left: 15%;
+    margin-bottom: 60px;
+}
+
+.btn{
+    background-color: rgb(255, 166, 0);
+    color: white;
+    -webkit-box-shadow: 5px 2px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 4px 2px 0px rgba(0,0,0,0.75);
+    margin-left: 15px;
+}
+
+.hide-me{
+    visibility: hidden;
+}
+.row, h1{
+    padding-top: 30px;
+    text-align: left;
+}
+
+#data-info, p{
+    margin-top: 30px;
+    text-align: left;
+}
